@@ -4,7 +4,7 @@ import java.util.Map;
 public class Offer_20 {
 }
 
-class Solution {
+class Solution20 {
     public boolean isNumber(String s) {
         Map[] statesMap = {
                 new HashMap<Character,Integer>() {{ put(' ', 0); put('s', 1); put('d', 2); put('.', 4); }}, // 0.
