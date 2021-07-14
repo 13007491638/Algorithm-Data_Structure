@@ -17,7 +17,7 @@ class Node {
     }
 }
 */
-class Solution {
+class Solution35O {
     public Node copyRandomList(Node head) {
         if(head == null) return  null;
         Node cur = head;

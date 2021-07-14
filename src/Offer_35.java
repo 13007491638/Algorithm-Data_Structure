@@ -20,7 +20,7 @@ class Node {
     }
 }
 
-class Solution {
+class Solution35 {
     public Node copyRandomList(Node head) {
         HashMap<Integer,Node> hashMap = new HashMap();
         Node n = null;
