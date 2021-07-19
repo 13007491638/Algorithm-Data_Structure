@@ -1,7 +1,7 @@
 import java.util.Deque;
 import java.util.LinkedList;
 
-public class Offer_59 {
+public class Offer_59_Ⅰ {
 }
 
 class Solution59 {
